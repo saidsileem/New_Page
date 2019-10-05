@@ -34,3 +34,4 @@ get-vmhost
 |item|category|price|
 |-----|-----|-----|
 |1|car|9000$|
+|2|games|200$|
