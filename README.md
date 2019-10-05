@@ -13,3 +13,24 @@ _this is first repo_
 > test
 
 > hhcdc
+
+mohsen`get-vm "VM2"`
+
+```powershell
+get-VM
+get-vmhost
+```
+
+
+said`get-vm "VM1"`
+
+```javascript
+get-vm
+get-vmhost
+```
+
+---
+
+|item|category|price|
+|-----|-----|-----|
+|1|bitcoin|9000$|
