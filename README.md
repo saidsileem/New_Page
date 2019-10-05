@@ -33,4 +33,4 @@ get-vmhost
 
 |item|category|price|
 |-----|-----|-----|
-|1|bitcoin|9000$|
+|1|car|9000$|
